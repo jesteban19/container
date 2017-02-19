@@ -1,5 +1,5 @@
 {
-    "name": "joseph/container",
+    "name": "josephesteban/container",
     "description": "this is a demo IOC container , please do NOT use it in production",
     "type": "library",
     "license": "MIT",

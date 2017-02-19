@@ -1,6 +1,6 @@
 <?php
 
-Styde\Container;
+namespace Styde\Container;
 
 abstract class Provider
 {
